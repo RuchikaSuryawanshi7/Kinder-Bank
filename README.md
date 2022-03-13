@@ -9,8 +9,8 @@ A mobile application used to spread financial literacy among teenagers by teachi
 
 ## Demo link
 
-- Youtube Demo link- https://www.youtube.com/watch?v=yEcjMYRuypU
-- PPT link- https://github.com/RuchikaSuryawanshi7/She-Hacks-2022-Solution/blob/main/KInder%20Bank.pdf
+- [Youtube Demo link](https://www.youtube.com/watch?v=yEcjMYRuypU)
+- [PPT link](https://github.com/RuchikaSuryawanshi7/She-Hacks-2022-Solution/blob/main/KInder%20Bank.pdf)
 
 ##
 
