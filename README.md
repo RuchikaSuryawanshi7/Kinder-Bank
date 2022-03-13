@@ -4,7 +4,28 @@
 
 A mobile application used to spread financial literacy among teenagers by teaching them how to manage money effectively, make goals, and prepare them for the financial realities of adulthood. KinderBank allows parents to host their children's virtual accounts and assist them in better managing their finances at early ages. 
 
-***Demo:*** [Demo](https://www.youtube.com/watch?v=yEcjMYRuypU)
+## Demo link
+https://www.youtube.com/watch?v=yEcjMYRuypU
+
+
+## How to start ? 🎪
+![](http://pa1.narvii.com/6468/75242fadf2cc1df5ca1f5f8a1906a6a9db572dca_00.gif)
+- If you don't have git on your machine, [install](https://docs.github.com/en/github/getting-started-with-github/set-up-git) it.
+
+## Fork this repository 🚀
+- Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
+
+## Clone the repository 🏁
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon.
+
+Open a terminal and run the following git command:
+
+`git clone "url you just copied"`
+where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+
+For example:
+
+`git clone https://github.com/`
 
 ## Our aim behind building KinderBank:
 
