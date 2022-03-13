@@ -89,15 +89,12 @@ For example:
 
 
 ## How we built it
-- Front-end was designed using Express, CSS3, Javascript, Jquery and Bootstrap framework.
-- Back-end was supported using Node.js
-- We used the Youtube Data v3 API for fetching the women made tech tutorials.
-- MongoDB database is used to store the registered users and their details as well as the groups and their comments for the mentor/mentee page.
-- We used bcrypt.js to hash the passwords in our database to ensure security of out users against any kind of data breach
-- We used passport.js to authenticate our users
-- We used UserWay plugin to make our web app more accessible to users with visual impairment or other similar issues.
-- We used Canva to create our app logo as well as all the designs used on our web page.
-- We used Heroku to host our web app.
+- Front-end was designed using Kotlin and Android.
+- Back-end was supported using Firebase.
+- Cloud firestore database is used to store the registered users and their details as well as the groups and their comments for the mentor/mentee page.
+- We used AdobeXD to create our app logo as well as all the designs and wireframes used in our application.
+- We used Canva for further editing and creation of PPT.
+- We used Filmora to create demo video link.
 
 ## Future Scope
 We strongly believe in the potential of our product. We think that it stands out from other trendy banking apps thanks to a strong concern over user experience and a well-designed layout. We believe that with some more time and the help of developers we could shape our idea into a ready-to-use service that would benefit the banks as well as the customers.
