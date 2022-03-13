@@ -47,12 +47,33 @@ For example:
 
 ## Features we've implemented
 - Our Fem STEM homepage has a list of introductory materials and a few links to donate in organizations who are empowering young women in the tech industry.
-- In the Help section, users (mentors) can create group doubt solving threads for helping other members of the community with their tech doubts.
-- Tutorials section to fetch only women made tech tutorials on relevant topics.
-- Opportunities section for users to add hackathon or other opportunities to help others.
-- Also, a Hall of Fame section highlighting our users' achievements.
-- Profile dashboard to display all details.
-- UserWay plugin to make our web app more accessible to users with visual impairment or other similar issues.
+- There are 2 kinds of login control in our app:- Parents Control and Child Control
+- Parents Login Features:-
+- 1. Made for Parents and Teens
+     An app for helping parents to inculcate good financial habits in their growing champ and prepare him for the world in the early age.
+
+  2. Create your child's first account
+     Create your child's first bank account in his teenage at the tip of your fingers
+
+  3. Teach your child the value hard-earned money
+     Give your champ daily tasks (like complete your hw) and reward him on completion of the task.
+
+  4. Check my Champ
+     Have track of your champ's financial actions without actually controlling his/her financial habits.
+     
+- Child Login Features:-
+- 1. Payments with Virtual Card
+     Every teen gets his/her own virtual card through which he/she can send and receive payment from their parents
+
+  2. Set personal saving goals
+     Teenagers can set specific goals for themselves and save money towards achieving the goal.
+
+  3. Earn Money from Daily Tasks
+     Work on small tasks given by your parents and earn money. Get paid for completing your homework or cleaning your bed.
+
+  4. Extra rewards for good work
+     Earn extra reward from GenMoney for consistency completing tasks, watching videos, playing games and much more...
+
 
 ## How we built it
 - Front-end was designed using Express, CSS3, Javascript, Jquery and Bootstrap framework.
@@ -64,4 +85,7 @@ For example:
 - We used UserWay plugin to make our web app more accessible to users with visual impairment or other similar issues.
 - We used Canva to create our app logo as well as all the designs used on our web page.
 - We used Heroku to host our web app.
+
+## Future Scope
+We strongly believe in the potential of our product. We think that it stands out from other trendy banking apps thanks to a strong concern over user experience and a well-designed layout. We believe that with some more time and the help of developers we could shape our idea into a ready-to-use service that would benefit the banks as well as the customers.
 
