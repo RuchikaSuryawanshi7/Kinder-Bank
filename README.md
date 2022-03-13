@@ -20,6 +20,7 @@ The core cornerstone of financial literacy remains evergreen in modern times, bu
 
 Based on this traditional mindset and ofcourse with the power of technology, we came up with the idea of **‘KinderBank', a smartphone application for kids to manage their finances, set savings goals, and understand the foundations of how money works, all just at the touch of a finger**
 
+##
 ## Problem Statement
 
 Adults and grown-ups in India show a clear lack of financial planning. As a result, the remedy to this problem would be to raise public awareness and educate people about financial stability beginning at a young age. It is impossible to overestimate the importance of personal financial planning in India. It's not only about putting more money aside and cutting costs. Financial planning entails a lot more. Financial planning is a step-by-step process for achieving one's life objectives. A financial plan serves as a road map as you travel through life. It essentially aids you in maintaining control over your income, expenses, and investments so that you may manage your finances and reach your objectives. Our purpose is to teach children how to successfully handle money, set goals, and plan for the future.
