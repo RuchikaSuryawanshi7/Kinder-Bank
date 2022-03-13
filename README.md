@@ -45,13 +45,23 @@ For example:
 
 `git clone https://github.com/RuchikaSuryawanshi7/She-Hacks-2022-Solution`
 
+## Features we've implemented
+- Our Fem STEM homepage has a list of introductory materials and a few links to donate in organizations who are empowering young women in the tech industry.
+- In the Help section, users (mentors) can create group doubt solving threads for helping other members of the community with their tech doubts.
+- Tutorials section to fetch only women made tech tutorials on relevant topics.
+- Opportunities section for users to add hackathon or other opportunities to help others.
+- Also, a Hall of Fame section highlighting our users' achievements.
+- Profile dashboard to display all details.
+- UserWay plugin to make our web app more accessible to users with visual impairment or other similar issues.
 
-## Installation 
+## How we built it
+- Front-end was designed using Express, CSS3, Javascript, Jquery and Bootstrap framework.
+- Back-end was supported using Node.js
+- We used the Youtube Data v3 API for fetching the women made tech tutorials.
+- MongoDB database is used to store the registered users and their details as well as the groups and their comments for the mentor/mentee page.
+- We used bcrypt.js to hash the passwords in our database to ensure security of out users against any kind of data breach
+- We used passport.js to authenticate our users
+- We used UserWay plugin to make our web app more accessible to users with visual impairment or other similar issues.
+- We used Canva to create our app logo as well as all the designs used on our web page.
+- We used Heroku to host our web app.
 
-1. Fork The repo 
-
-2. Clone the repo 
-```
-git clone 
-```
-3. Open the cloned repo in Android Studio 
