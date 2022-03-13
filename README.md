@@ -38,7 +38,7 @@ We believe that teenage is the time when an individual gets a taste of the reali
 
 *The major objective of the application is to help teenagers become financially literate and soon become financially independent*. 
 
-She Hacks provides the ideal opportunity to make this aspiration a reality and take the first step toward the goal of educating 10 million financially literate teenagers.
+This hackathon provides the ideal opportunity to make this aspiration a reality and take the first step toward the goal of educating 10 million financially literate teenagers.
 
 ## How to start ? 🎪
 ![](http://pa1.narvii.com/6468/75242fadf2cc1df5ca1f5f8a1906a6a9db572dca_00.gif)
