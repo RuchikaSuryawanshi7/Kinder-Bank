@@ -9,13 +9,13 @@ Based on this traditional mindset and ofcourse with the power of technology, we 
 ## What is KinderBank?
 
 **KinderBank** is a mobile application designed by keeping in mind the gen-Z and the transformations in the aspects of money management along with the traditional 
-evergreen methodologies. We at GenMoney, aim to provide teenagers a real experience of how is it like to have a bank account with features like **Savings Account**, 
+evergreen methodologies. We at KinderBank, aim to provide teenagers a real experience of how is it like to have a bank account with features like **Savings Account**, 
 **KYC Authentication**, **Interests/Rewards**, **Online Banking** (similar to UPI) and much more. 
 We believe that teenage is the time when an individual gets a taste of the reality of life and needs to prepare oneself for the journey ahead. 
 
 *The major objective of the application is to help teenagers become financially literate and soon become financially independent*. 
 
-Zeta Hacks provides the ideal opportunity to make this aspiration a reality and take the first step toward the goal of educating 10 million financially literate teenagers.
+She Hacks provides the ideal opportunity to make this aspiration a reality and take the first step toward the goal of educating 10 million financially literate teenagers.
 
 ## Installation 
 
