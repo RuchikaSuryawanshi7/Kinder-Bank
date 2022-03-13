@@ -20,6 +20,7 @@ The core cornerstone of financial literacy remains evergreen in modern times, bu
 
 Based on this traditional mindset and ofcourse with the power of technology, we came up with the idea of **‘KinderBank', a smartphone application for kids to manage their finances, set savings goals, and understand the foundations of how money works, all just at the touch of a finger**
 
+
 ##
 ## Problem Statement
 
