@@ -12,7 +12,9 @@ A mobile application used to spread financial literacy among teenagers by teachi
 - Youtube Demo link- https://www.youtube.com/watch?v=yEcjMYRuypU
 - PPT link- https://github.com/RuchikaSuryawanshi7/She-Hacks-2022-Solution/blob/main/KInder%20Bank.pdf
 
-#### Our aim behind building KinderBank:
+##
+
+## Our aim behind building KinderBank:
 
 The core cornerstone of financial literacy remains evergreen in modern times, but with a technological twist. Savings and financial management lessons are still important, but they require significantly more contact and regular touch than in the past.
 
