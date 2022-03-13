@@ -7,8 +7,6 @@ A mobile application used to spread financial literacy among teenagers by teachi
 ##
 <img width="400"  align='left' src="https://github.com/nishtha-dev/SheHacks2022/blob/main/icon.jpg">
 
-##
-
 ## Demo link
 
 - Youtube Demo link- https://www.youtube.com/watch?v=yEcjMYRuypU
