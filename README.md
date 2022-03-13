@@ -12,12 +12,13 @@ A mobile application used to spread financial literacy among teenagers by teachi
 - Youtube Demo link- https://www.youtube.com/watch?v=yEcjMYRuypU
 - PPT link- https://github.com/RuchikaSuryawanshi7/She-Hacks-2022-Solution/blob/main/KInder%20Bank.pdf
 
-## Our aim behind building KinderBank:
+#### Our aim behind building KinderBank:
 
 The core cornerstone of financial literacy remains evergreen in modern times, but with a technological twist. Savings and financial management lessons are still important, but they require significantly more contact and regular touch than in the past.
 
 Based on this traditional mindset and ofcourse with the power of technology, we came up with the idea of **‘KinderBank', a smartphone application for kids to manage their finances, set savings goals, and understand the foundations of how money works, all just at the touch of a finger**
 
+##
 ## What is KinderBank?
 
 **KinderBank** is a mobile application designed by keeping in mind the gen-Z and the transformations in the aspects of money management along with the traditional 
