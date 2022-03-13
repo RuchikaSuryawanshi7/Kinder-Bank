@@ -25,7 +25,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 
 For example:
 
-`git clone https://github.com/`
+`git clone https://github.com/RuchikaSuryawanshi7/She-Hacks-2022-Solution`
 
 ## Our aim behind building KinderBank:
 
