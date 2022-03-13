@@ -93,9 +93,8 @@ For example:
 
 
 ## How we built it
-- Front-end was designed using Kotlin and Android.
-- Back-end was supported using Firebase.
-- Cloud firestore database is used to store the registered users and their details as well as the groups and their comments for the mentor/mentee page.
+- Front-end was designed using Kotlin language and Android Studio.
+- Back-end was supported using Java.
 - We used AdobeXD to create our app logo as well as all the designs and wireframes used in our application.
 - We used Canva for further editing and creation of PPT.
 - We used Filmora to create demo video link.
