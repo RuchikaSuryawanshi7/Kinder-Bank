@@ -4,6 +4,8 @@
 
 A mobile application used to spread financial literacy among teenagers by teaching them how to manage money effectively, make goals, and prepare them for the financial realities of adulthood. KinderBank allows parents to host their children's virtual accounts and assist them in better managing their finances at early ages. 
 
+***Demo:*** [Demo](https://www.youtube.com/watch?v=yEcjMYRuypU)
+
 ## Our aim behind building KinderBank:
 
 The core cornerstone of financial literacy remains evergreen in modern times, but with a technological twist. Savings and financial management lessons are still important, but they require significantly more contact and regular touch than in the past.
