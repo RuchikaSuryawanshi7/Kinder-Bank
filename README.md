@@ -46,7 +46,8 @@ For example:
 `git clone https://github.com/RuchikaSuryawanshi7/She-Hacks-2022-Solution`
 
 ## Features we've implemented
-- Our Fem STEM homepage has a list of introductory materials and a few links to donate in organizations who are empowering young women in the tech industry.
+- Kinderbank provide rewards for students after managing their finances at a better expectations.
+- It allows parents to host their children's virtual accounts and assist them in better managing their finances at early ages. 
 - There are 2 kinds of login control in our app:- Parents Control and Child Control
 - Parents Login Features:-
 - 1. Made for Parents and Teens
